@@ -12,3 +12,5 @@ Then Press start and the server is up, the default port is 80, you can change it
 Spectrum next:
 Type the command that appears on top of the window. And it should download the file you want.
 example: .http -h myip -u /pong.tap -f pong.tap
+
+[download file here](Win32/Release/Server.exe)
