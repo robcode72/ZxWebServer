@@ -4,8 +4,7 @@ uses
   Vcl.Forms,
   uMain in 'uMain.pas' {frmMain},
   Vcl.Themes,
-  Vcl.Styles,
-  UFileCatcher in 'UFileCatcher.pas';
+  Vcl.Styles;
 
 {$R *.res}
 
