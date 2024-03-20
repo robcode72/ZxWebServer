@@ -5,7 +5,7 @@ it's a simple web server for .http. to work with the Spectrum Next.
 
 ![screen short](img/Captura.PNG)
 
-What's new:
+What's new 22/02/2024:
 --------------
 multiselect files
 Save as (zip or Bas file) for downloading a multi files.
