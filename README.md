@@ -36,3 +36,5 @@ example:
 .http -h myip -u /myfiles.bas -f myfiles.bas
 
 [Download server.exe here](Win32/Release/Server.exe)
+
+If you want me to still make changes to this proyect please send suport. Thanks
