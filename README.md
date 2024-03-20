@@ -10,7 +10,7 @@ multiselect files
 Save as (zip or Bas file) for downloading a multi files.
 Fixes in the code.
 
-What's pendding?
+What's pending?
 ----------------
 POST from a ZX Spectrum Next a File.
 
