@@ -26,6 +26,9 @@ On your Spectrum next:
 ----------------------
 Type the command that appears on top of the window. And it should download the file you want.
 
-example: .http -h myip -u /pong.tap -f pong.tap
+example: 
+          .http -h myip -u /pong.tap -f pong.tap
+          .http -h myip -u /myfiles.zip -f myfiles.zip
+          .http -h myip -u /myfiles.bas -f myfiles.bas
 
 [download file here](Win32/Release/Server.exe)
