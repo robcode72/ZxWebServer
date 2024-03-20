@@ -1,6 +1,7 @@
 # ZxWebServer
 A program to work with the .http. (remy next-http)
-it's a simple web server for .http. to work with the Spectrum Next
+
+it's a simple web server for .http. to work with the Spectrum Next.
 
 ![screen short](img/Captura.PNG)
 
