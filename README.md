@@ -7,8 +7,8 @@ it's a simple web server for .http. to work with the Spectrum Next
 What's new:
 --------------
 multiselect files
-Save as (zip or Bas file) for downloading a batch files.
-Fixed a some bugs.
+Save as (zip or Bas file) for downloading a multi files.
+Fixes in the code.
 
 What's pendding?
 ----------------
