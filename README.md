@@ -34,4 +34,4 @@ example:
 
 .http -h myip -u /myfiles.bas -f myfiles.bas
 
-[download file here](Win32/Release/Server.exe)
+[Download server.exe here](Win32/Release/Server.exe)
