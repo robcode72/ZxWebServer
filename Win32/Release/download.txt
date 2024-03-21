@@ -1,0 +1,34 @@
+5 REM *** DOWNLOAD BAS FILE
+6 INK 7: BORDER 1: PAPER 1: LAYER 1,2: CLS
+7 INK 4: PRINT "DOWNLOADING FILES:": INK 7
+10 PRINT "coloco.tap...."
+11 .http -h 192.168.1.72 -u /coloco.tap -v 6 -f coloco.tap
+12 PRINT "OK"
+19 PRINT "gluf.tap...."
+20 .http -h 192.168.1.72 -u /gluf.tap -v 6 -f gluf.tap
+21 PRINT "OK"
+28 PRINT "Godkiller2_Exile_NTE_v2.tap...."
+29 .http -h 192.168.1.72 -u /Godkiller2_Exile_NTE_v2.tap -v 6 -f Godkiller2_Exile_NTE_v2.tap
+30 PRINT "OK"
+37 PRINT "Godkiller2_Exile_NTE_v2_intro.tap...."
+38 .http -h 192.168.1.72 -u /Godkiller2_Exile_NTE_v2_intro.tap -v 6 -f Godkiller2_Exile_NTE_v2_intro.tap
+39 PRINT "OK"
+46 PRINT "Goody.tap...."
+47 .http -h 192.168.1.72 -u /Goody.tap -v 6 -f Goody.tap
+48 PRINT "OK"
+55 PRINT "MMTLS.tap...."
+56 .http -h 192.168.1.72 -u /MMTLS.tap -v 6 -f MMTLS.tap
+57 PRINT "OK"
+64 PRINT "Pong.tap...."
+65 .http -h 192.168.1.72 -u /Pong.tap -v 6 -f Pong.tap
+66 PRINT "OK"
+73 PRINT "S.o.L.o.tap...."
+74 .http -h 192.168.1.72 -u /S.o.L.o.tap -v 6 -f S.o.L.o.tap
+75 PRINT "OK"
+82 PRINT "Street Fighter 2 (US Gold, 1992).tap...."
+83 .http -h 192.168.1.72 -u /Street Fighter 2 (US Gold, 1992).tap -v 6 -f Street Fighter 2 (US Gold, 1992).tap
+84 PRINT "OK"
+91 PRINT "test.tap...."
+92 .http -h 192.168.1.72 -u /test.tap -v 6 -f test.tap
+93 PRINT "OK"
+101 PRINT "DOWNLOAD HAS BEEN COMPLETED!"
